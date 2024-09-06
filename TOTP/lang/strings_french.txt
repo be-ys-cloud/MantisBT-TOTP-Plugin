@@ -1,0 +1,13 @@
+<?php
+# Copyright (c) MantisBT Team - mantisbt-dev@lists.sourceforge.net
+# Licensed under the MIT license
+
+$s_plugin_TOTP_manage = 'Gestion TOTP';
+$s_plugin_TOTP_totp_enabled = 'TOTP activé';
+$s_plugin_TOTP_totp_not_enabled = 'TOTP désactivé';
+$s_plugin_TOTP_totp_enable_button = 'Activer le TOTP';
+$s_plugin_TOTP_totp_disable_button = 'Désactiver le TOTP';
+$s_plugin_TOTP_secret_key = 'Clé secrète ';
+$s_plugin_TOTP_totp = 'TOTP';
+$s_plugin_TOTP_title = 'Gestion TOTP';
+$s_plugin_TOTP_description = 'Un simple plugin pour permettre à vos utilisateurs de configurer un TOTP pour leur compte en mesure de 2FA.';
